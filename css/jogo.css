@@ -1,0 +1,64 @@
+
+
+* {
+    font-family: verdana;
+  }
+  
+  h1 {
+      text-align: center;
+  }
+  div {
+      text-align: center;
+  }
+  table {
+      margin: 1em auto;
+      border-collapse: collapse;
+  }
+  td {
+      border: 1px solid rgb(5, 39, 151);
+      width: 30px;
+      height: 30px;
+      text-align: center;
+  }
+  .blocked, .flag {
+      background: rgb(160, 153, 153);    
+  }
+  .n1, .n2, .n3, .n4, .n5, .n6, .n7, .n8 {
+      background-color: #eee;
+  }
+  .n1 {
+      color: rgb(11, 166, 228);
+  }
+  .n2 {
+      color: rgb(2, 163, 69);
+  }
+  .n3 {
+      color: rgb(197, 230, 11);
+  }
+  .n4 {
+      color: rgb(146, 3, 134);
+  }
+  .n5 {
+      color: rgb(75, 0, 146);
+  }
+  .n6 {
+      color: rgb(138, 110, 39);
+  }
+  .n7 {
+      color: rgb(255, 0, 0);
+  }
+  .n8 {
+      color: rgb(0, 0, 0);
+  }
+
+.reloj{
+    font-size: 170%;
+    font-family: 'Orbitron', sans-serif;
+    color: #363431;
+    display: inline-block;
+}
+
+#relogio{
+    position: relative;
+    margin-top: 1%;
+}

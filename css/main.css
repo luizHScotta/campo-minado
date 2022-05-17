@@ -1,0 +1,42 @@
+
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+}
+
+.menu{
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 39%;
+    width: 400px;
+    height: 400px;
+    background-color: lightslategray;
+}
+
+.dif{
+    position: relative;
+}
+
+.dif h1{
+    text-align: center;
+}
+
+.dif a{
+    text-decoration: none;
+    size: 50px;
+}
+
+
+button{
+    position: relative;
+    margin-left: 10%;
+    margin-top: 15%;
+    border-radius: 10px;
+    border: 50px;
+}
+
+
+
+
+
